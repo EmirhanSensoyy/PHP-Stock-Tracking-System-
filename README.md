@@ -25,4 +25,5 @@ Product and Stock Management System
 
 ### Some Project Pictures
 
+![alt text](https://raw.githubusercontent.com/emirhansensoyresmi/PHP-Stock-Tracking-System-/main/ScreenShot/addorder.png)
 
