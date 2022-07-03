@@ -25,4 +25,4 @@ Product and Stock Management System
 
 ### Some Project Pictures
 
-[![image](https://r.resimlink.com/S5ghGxJu.png)](https://resimlink.com/S5ghGxJu)
+
