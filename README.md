@@ -25,5 +25,8 @@ Product and Stock Management System
 
 ### Some Project Pictures
 
-![alt text](https://raw.githubusercontent.com/emirhansensoyresmi/PHP-Stock-Tracking-System-/main/ScreenShot/addorder.png)
 
+<p align="center">
+  <img width="700" height="450" src="https://raw.githubusercontent.com/emirhansensoyresmi/PHP-Stock-Tracking-System-/main/ScreenShot/addorder.png">
+</p>
+<p align="center">Add Order</p>
